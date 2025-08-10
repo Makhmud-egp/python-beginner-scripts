@@ -1,2 +1,2 @@
-# python-beginner-scripts
-“My first Python scripts while learning the basics.”
+
+This repository contains beginner-friendly Python scripts I’m creating while learning.
