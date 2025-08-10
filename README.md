@@ -1,12 +1,19 @@
+# Python Beginner Scripts
 
 This repository contains beginner-friendly Python scripts I’m creating while learning.
+
 ## About This Project
-This is my Python learning journey - from absolute beginner to strong junior developer.
+This is my Python learning journey — from absolute beginner to strong junior developer.
 
-### Scripts in this Repo:
-- **greater.py** - Greets the user by name.
-### Tool Used:
+## Scripts in This Repo
+- **greeter.py** – Greets the user by name.
+- **tip_calculator.py** – Calculates the tip and total bill based on user input.
+- **math_quiz.py** – Asks a simple math question and checks your answer.
+
+## Tools Used
 - Python 3
-- Git & Github
+- Git & GitHub
 
-Stay tuned - new scripts will be added weekly.
+---
+
+Stay tuned — new scripts will be added weekly!
