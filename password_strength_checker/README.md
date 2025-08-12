@@ -14,3 +14,13 @@ A simple Python program that checks the strength of a password based on the foll
    ```bash
    python password_checker.py
 
+## 📌 Example
+- Enter your password: mypass
+Weak: Password must be at least 8 characters long.
+Weak: Password must contain at least one uppercase letter.
+Weak: Password must contain at least one digit.
+Weak: Password must contain at least one special character.
+❌ Weak password! Please try again.
+
+Enter your password: MyPass123!
+✅ Strong password!
